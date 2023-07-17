@@ -8,6 +8,6 @@ First, run the development server:
 npm run dev
 
 ##Here is the initial commit to this project.
-<img src="/public/car.png" alt="Alt text" title="Optional title">
-[Screencast from 17-07-23 02:03:46 PM IST.webm](https://github.com/notsidowic/luxury-car-rental-website/assets/139076231/3d501b5c-122b-419e-b5a0-af3d00d8a9df)
-[Screencast from 17-07-23 02:03:46 PM IST.webm](https://github.com/notsidowic/luxury-car-rental-website/assets/139076231/f4d04c89-5fcf-4da1-ac02-ccef1b473d37)
+image : https://github.com/notsidowic/luxury-car-rental-website/assets/139076231/86221ee1-1fc3-4180-8e56-19de376c96a4
+video : https://github.com/notsidowic/luxury-car-rental-website/assets/139076231/3d501b5c-122b-419e-b5a0-af3d00d8a9df
+
